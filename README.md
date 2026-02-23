@@ -38,7 +38,7 @@ I'm a passionate tech enthusiast who loves exploring new technologies, solving p
 ### Connect To Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abyanhf_/)<br>
 ![twit](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)<br>
-[![lingkin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abyan-herfanto-14a2813a3)<br>
+[![lingkin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyan-herfanto-14a2813a3/)<br>
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/antingebait/)<br>
 
 ---
